@@ -47,7 +47,7 @@
 * Lección 3
   * > [tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion3/Leccion3Benja.unitypackage)
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion3/Reto3Benja.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](https://github.com/RBBeny/Unity/blob/main/Leccion3/Laboratorio3Benjamin.unitypackage)
   * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion3/PruebaLeccion3.jpg)
 * Lección 4
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion4/tutorial04.unitypackage)
