@@ -25,7 +25,7 @@
 
 - Nombre del proyecto: ZombiesCity
 - Objetivo.
-El objetivo del juego es eliminar a los zombies que van generandose en el mundo, sin que te tocoquen o pierdes vidad y eventualmente el juego
+El objetivo del juego es eliminar a los zombies que van generandose en el mundo, sin que te tocoquen o pierdes vidas y eventualmente el juego
 - Plataforma: PC
 - Género: Disparos, Zomies, Supervivencia
 - Clasificación: Todos +10 
