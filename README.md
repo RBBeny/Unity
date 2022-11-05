@@ -23,14 +23,23 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto: ZombiesCity
 - Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
+El objetivo del juego es eliminar a los zombies que van generandose en el mundo, sin que te tocoquen o pierdes vidad y eventualmente el juego
+- Plataforma: PC
+- Género: Disparos, Zomies, Supervivencia
+- Clasificación: Todos +10 
+- Personajes: El Sobreviviente, los zombies 
+- Escenario: La ciudad y el campo
 - Historia
-- Personajes
+En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi sobrevive
 - Reglas de Juego.
+Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
 - Pantallas de Juego
+La ciudad apocaliptico
+El campo apocaliptico
 - Plan de creación de VideoJuego.
+
 
 ## Código Fuente
 
