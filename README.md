@@ -23,41 +23,50 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto: ZombiesCity
 - Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
+El objetivo del juego es eliminar a los zombies que van generandose en el mundo, sin que te tocoquen o pierdes vidas y eventualmente el juego
+- Plataforma: PC
+- Género: Disparos, Zomies, Supervivencia
+- Clasificación: Todos +10 
+- Personajes: El Sobreviviente, los zombies 
+- Escenario: La ciudad y el campo
 - Historia
-- Personajes
+En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi sobrevive
 - Reglas de Juego.
+Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
 - Pantallas de Juego
+La ciudad apocaliptico
+El campo apocaliptico
 - Plan de creación de VideoJuego.
+
 
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
+  * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion1/Tutorial1Benjamin.unitypackage)
   * > Laboratorio
-  * > Desafío
+  * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion1/Desafio1Benjamin.unitypackage)
   * > Prueba
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
+  * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion2/Tutorial2Benja.unitypackage)
+  * > [Laboratorio](https://github.com/RBBeny/Unity/blob/main/Leccion2/Laboratorio2Benjamin.unitypackage)
+  * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion2/Desafio2Benja.unitypackage)
   * > Prueba
 * Lección 3
   * > [tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion3/Leccion3Benja.unitypackage)
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion3/Reto3Benja.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](https://github.com/RBBeny/Unity/blob/main/Leccion3/Laboratorio3Benjamin.unitypackage)
   * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion3/PruebaLeccion3.jpg)
 * Lección 4
-  * > Tutorial
+  * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion4/tutorial04.unitypackage)
   * > Laboratorio
-  * > Desafío
+  * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion4/desafio04benja.unitypackage)
   * > Prueba
 * Lección 5
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion5/leccion5benja.unitypackage)
   * > Laboratorio
-  * > Desafío
+  * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion5/Desafio5benja.unitypackage)
   * > Prueba
 * VideoJuego
 
