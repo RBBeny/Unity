@@ -62,12 +62,12 @@ El campo apocaliptico
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion4/tutorial04.unitypackage)
   * > Laboratorio
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion4/desafio04benja.unitypackage)
-  * > Prueba
+  * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion4/prueba04benja.jpg)
 * Lección 5
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion5/leccion5benja.unitypackage)
   * > Laboratorio
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion5/Desafio5benja.unitypackage)
-  * > Prueba
+  * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion5/prueba05benja.jpg)
 * VideoJuego
 
 ## Planificación
