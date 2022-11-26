@@ -31,10 +31,10 @@ El objetivo del juego es eliminar a los Enemigos que van generandose en el mundo
 - Clasificación: Todos +10 
 - Tipo de Juego: 3D, Primera persona
 - Personajes: Player, los zombies 
-- Escenario: El nivel Facil es en un escenario en una ciudad, el nivel dificil es en un espacio de una rancho 
+- Escenario: El nivel Facil es en un escenario en una ciudad se tienen 3 enemigos en el mundo, el nivel dificil es en un espacio de una rancho y se tienen mas enemigos con un total de 10
 - Historia
 En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi que sobrevive a esto y mata a todos lo enemigos
-- Reglas de Juego.
+- Reglas de Juego. las teclas wasd sirven para mover el jugador, el movimiento del mouse funciona para mover la camara de jugador y apuntar, la barra espaciadora para saltar y para disparar con el arma es con el click izquierdo del mouse 
 Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
 - Base de Datos: MongoDB, se ingresa el nick name y el tiempo que se tarda en eliminar a todos los enemigos
 - Objetos especiales: existen powerups que te agregarn vida y municion
@@ -53,7 +53,7 @@ Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
   * > [V2](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV2SeguimientoEnemy.unitypackage)
   * > [V3](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV3TresEnemigos.unitypackage)
     
-## Código Fuente
+## Código Fuentes
 
 * Lección 1
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion1/Tutorial1Benjamin.unitypackage)
