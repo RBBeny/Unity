@@ -25,22 +25,34 @@
 
 - Nombre del proyecto: ZombiesCity
 - Objetivo.
-El objetivo del juego es eliminar a los zombies que van generandose en el mundo, sin que te tocoquen o pierdes vidas y eventualmente el juego
+El objetivo del juego es eliminar a los Enemigos que van generandose en el mundo, sin que te dispares o pierdes vidas y sobrevivir en la ciudad apocaliptica
 - Plataforma: PC
 - Género: Disparos, Zomies, Supervivencia
 - Clasificación: Todos +10 
-- Personajes: El Sobreviviente, los zombies 
-- Escenario: La ciudad y el campo
+- Tipo de Juego: 3D, Primera persona
+- Personajes: Player, los zombies 
+- Escenario: El nivel Facil es en un escenario en una ciudad, el nivel dificil es en un espacio de una rancho 
 - Historia
-En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi sobrevive
+En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi que sobrevive a esto y mata a todos lo enemigos
 - Reglas de Juego.
 Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
-- Pantallas de Juego
-La ciudad apocaliptico
-El campo apocaliptico
+- Base de Datos: MongoDB, se ingresa el nick name y el tiempo que se tarda en eliminar a todos los enemigos
+- Objetos especiales: existen powerups que te agregarn vida y municion
+- Al finalizar la partida: se muestra tu tiempo y los mejores tres tiempos en que se termino el juego
+
 - Plan de creación de VideoJuego.
 
+<p align="center">
+    <img src="https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/Planeacion.jpg" alt="Logo" width=1200 height=300>
 
+
+    
+    
+* Avances
+  * > [V1](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV1MovimientoPlayer.unitypackage)
+  * > [V2](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV2SeguimientoEnemy.unitypackage)
+  * > [V3](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV3TresEnemigos.unitypackage)
+    
 ## Código Fuente
 
 * Lección 1
