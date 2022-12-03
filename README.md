@@ -25,23 +25,35 @@
 
 - Nombre del proyecto: ZombiesCity
 - Objetivo.
-El objetivo del juego es eliminar a los zombies que van generandose en el mundo, sin que te tocoquen o pierdes vidas y eventualmente el juego
+El objetivo del juego es eliminar a los Enemigos que van generandose en el mundo, sin que te dispares o pierdes vidas y sobrevivir en la ciudad apocaliptica
 - Plataforma: PC
 - Género: Disparos, Zomies, Supervivencia
 - Clasificación: Todos +10 
-- Personajes: El Sobreviviente, los zombies 
-- Escenario: La ciudad y el campo
+- Tipo de Juego: 3D, Primera persona
+- Personajes: Player, los zombies 
+- Escenario: El nivel Facil es en un escenario en una ciudad se tienen 3 enemigos en el mundo, el nivel dificil es en un espacio de una rancho y se tienen mas enemigos con un total de 10
 - Historia
-En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi sobrevive
-- Reglas de Juego.
+En un mundo apocaliptico en donde ya solo estas tu como sobreviviente y existe una plaga que genero una gran cantidad de zombies, asi que sobrevive a esto y mata a todos lo enemigos
+- Reglas de Juego. las teclas wasd sirven para mover el jugador, el movimiento del mouse funciona para mover la camara de jugador y apuntar, la barra espaciadora para saltar y para disparar con el arma es con el click izquierdo del mouse 
 Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
-- Pantallas de Juego
-La ciudad apocaliptico
-El campo apocaliptico
+- Base de Datos: MongoDB, se ingresa el nick name y el tiempo que se tarda en eliminar a todos los enemigos
+- Objetos especiales: existen powerups que te agregarn vida y municion
+- Al finalizar la partida: se muestra tu tiempo y los mejores tres tiempos en que se termino el juego
+
 - Plan de creación de VideoJuego.
 
+<p align="center">
+    <img src="https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/Planeacion.jpg" alt="Logo" width=1200 height=300>
 
-## Código Fuente
+
+    
+    
+* Avances
+  * > [V1](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV1MovimientoPlayer.unitypackage)
+  * > [V2](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV2SeguimientoEnemy.unitypackage)
+  * > [V3](https://github.com/RBBeny/Unity/blob/main/JuegoPersonal/JuegoV3TresEnemigos.unitypackage)
+    
+## Código Fuentes
 
 * Lección 1
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion1/Tutorial1Benjamin.unitypackage)
@@ -75,7 +87,7 @@ El campo apocaliptico
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Benjamin Ramirez Bolaños GDGS2101
 
 ## Copyright
 Derechos Reservados 2022
