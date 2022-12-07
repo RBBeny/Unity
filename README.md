@@ -70,16 +70,19 @@ Si un zombie te ataca te quita vidas, si disparas a un zombie desaparece
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion3/Reto3Benja.unitypackage)
   * > [Laboratorio](https://github.com/RBBeny/Unity/blob/main/Leccion3/Laboratorio3Benjamin.unitypackage)
   * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion3/PruebaLeccion3.jpg)
+  * > [Video Desafio](https://github.com/RBBeny/Unity/blob/main/Leccion3/desafio03.mkv)
 * Lección 4
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion4/tutorial04.unitypackage)
   * > Laboratorio
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion4/desafio04benja.unitypackage)
   * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion4/prueba04benja.jpg)
+  * > [Video Desafio](https://github.com/RBBeny/Unity/blob/main/Leccion4/desafio04.mkv)
 * Lección 5
   * > [Tutorial](https://github.com/RBBeny/Unity/blob/main/Leccion5/leccion5benja.unitypackage)
   * > Laboratorio
   * > [Desafío](https://github.com/RBBeny/Unity/blob/main/Leccion5/Desafio5benja.unitypackage)
   * > [Prueba](https://github.com/RBBeny/Unity/blob/main/Leccion5/prueba05benja.jpg)
+  * > [Video Desafio](https://github.com/RBBeny/Unity/blob/main/Leccion5/desafio05.mkv)
 * VideoJuego
 
 ## Planificación
